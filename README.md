@@ -15,7 +15,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 Treat the data to run into ML models to predict a Score given the features (V1..V28, Time and Amount). Since the data is not balanced, only 492 frauds out of 248,807 transactions. I will use various options to balance the dataset and run several algorithms after to understand what is best for this particular case!
 
-##### Until now I only managed to do 1 technique (Undersampling) and apply 2 models to the dataset. As soon as I'm able to get time to do more I will update the repo #####
+## Until now I only managed to do 1 technique (Undersampling) and apply 2 models to the dataset. As soon as I'm able to get time to do more I will update the repo ##
 
 # References:
  - Hands on Machine Learning with Scikit-Learn & TensorFlow by Aurélien Géron (O'Reilly). CopyRight 2017 Aurélien Géron
